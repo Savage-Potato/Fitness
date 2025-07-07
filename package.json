@@ -1,6 +1,7 @@
 {
   "name": "fitness-planner",
   "private": true,
+  "homepage": "https://savage-potato.github.io/Fitness",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
